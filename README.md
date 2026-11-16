@@ -49,25 +49,25 @@ Java-Programming/
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Java-Programming.git
+git clone https://github.com/Cole0032/CAP_392_Java-Fundamentals_LeetCode_CA3_12517883.git
 ```
 
 **2. Navigate to the project directory**
 
 ```bash
-cd Java-Programming
+cd CAP_392_Java-Fundamentals_LeetCode_CA3_12517883
 ```
 
 **3. Compile a Java solution**
 
 ```bash
-javac Easy/Problem1.java
+javac Easy/Two Sum.java
 ```
 
 **4. Run the program**
 
 ```bash
-java -cp Easy Problem1
+java -cp Easy Two Sum.java
 ```
 
 ## 📈 Progress Tracker
