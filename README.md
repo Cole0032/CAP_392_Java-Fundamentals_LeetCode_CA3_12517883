@@ -74,10 +74,10 @@ java -cp Easy Problem1
 
 | Difficulty | Problems Solved |
 |---|---:|
-| Easy | Updating |
-| Medium | Updating |
-| Hard | Updating |
-| **Total** | **Updating** |
+| Easy | 9 |
+| Medium | 7 |
+| Hard | 3 |
+| **Total** | 20|
 
 ## 📚 Platform
 
